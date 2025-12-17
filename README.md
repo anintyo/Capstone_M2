@@ -1,6 +1,7 @@
 # Capstone_M2
 
 **CAPSTONE PROJECT MODULE 2**
+
 **JCAIEAH-002 - ANINTYO HERDADI**
 
 
@@ -17,16 +18,27 @@ Dataset yang digunakan pada Capstone Project ini adalah California Housing Price
 Dataset berisi informasi dari sensus California tahun 1990 dan setiap baris berkaitan dengan rumah-rumah yang ditemukan di distrik tertentu di California dengan beberapa statistik ringkasan berdasarkan data sensus tahun 1990.
 
 Kolom yang terdapat pada dataset sebagai berikut:
+
 -longitude
+
 -latitude
+
 -Housing median age
+
 -total_rooms
+
 -total_bedrooms
+
 -population
+
 -households
+
 -median_income
+
 -median house value
+
 -ocean_proximity
+
 
 Struktur pekerjaan project terbagi menjadi 6 bagian yaitu:
 1. Business Problem
